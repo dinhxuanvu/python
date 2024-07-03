@@ -1,0 +1,158 @@
+{
+  "apiVersion": "apps/v1",
+  "items": [
+    {
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "spec": {
+        "minReadySeconds": -367151666,
+        "ordinals": {
+          "start": 468494277
+        },
+        "persistentVolumeClaimRetentionPolicy": {
+          "whenDeleted": "Retain",
+          "whenScaled": "Retain"
+        },
+        "podManagementPolicy": "E磯酏伫英鑝[ʢɕ朹\"ĥ贲3ƕÕc茀",
+        "replicas": -22547423,
+        "revisionHistoryLimit": -1128840752,
+        "selector": {
+          "matchExpressions": [
+            {
+              "key": "3-3-ch-5-3ld-s20u--1mn-9u2f-s-j2-----7btb2-m4-k--0-6-uv-12-3.3ox-6f1---u--3--7jm--8huet-i9eie-h----6j9o-0o---4/aiM.2-_.c5_.__T1D--6ixL.N_3Bh1.cRg",
+              "operator": "Exists"
+            },
+            {
+              "key": "n-.7O_.F-0..-pZQ1-3-_FC---O.6M_4--Zc.33",
+              "operator": "Exists"
+            }
+          ]
+        },
+        "serviceName": "ɮ儐肽慜黩梮匂1ys鞙0ʤxƦVʭ",
+        "template": {
+          "metadata": {
+            "annotations": {
+              "磮侇+収0ɏ鑠[釘l帐^輹_粎劄ʏ道ɽ": "ǘIȵ鹪貫觨|炲哜z琝¾瑤/"
+            },
+            "creationTimestamp": "2053-08-11T20:28:13Z",
+            "deletionGracePeriodSeconds": 1795920129673903637,
+            "generateName": ")ô縪ǫž吀藉",
+            "generation": -7313787363111390197,
+            "name": "$a赽曯瘛¤0ƊŤH\u0026à鸌i®禗ʘĵs",
+            "namespace": "ń©缗炌浫60ÌǂW*仠ǯ蹑rʯ",
+            "resourceVersion": "11909365095599268903",
+            "selfLink": "鰚O伌ņ膅]蹟儈针x}CR摓聳",
+            "uid": "ȺMY鮭圁撑ɣ绦湇lġZp灎LFȗe|"
+          },
+          "spec": {
+            "activeDeadlineSeconds": -1144541112640882613,
+            "affinity": {},
+            "containers": null,
+            "dnsConfig": {},
+            "dnsPolicy": "Default",
+            "enableServiceLinks": true,
+            "hostAliases": [
+              {
+                "ip": "ǮX笷Ɵ"
+              }
+            ],
+            "hostPID": true,
+            "hostUsers": false,
+            "hostname": "¼Ôʢ脃",
+            "nodeName": "yƹ",
+            "preemptionPolicy": "乥Ȱ晹/ɐ集涷~稙ǆ妅",
+            "priorityClassName": "TɅ暔ʠ+",
+            "restartPolicy": "Always",
+            "schedulerName": "default-scheduler",
+            "schedulingGates": [
+              {
+                "name": "3zɝń怽BxiW緶庴"
+              }
+            ],
+            "securityContext": {
+              "fsGroup": 1692640527731598582,
+              "runAsGroup": 4360150243353756959,
+              "runAsUser": 6800609862341671673,
+              "seLinuxOptions": {
+                "level": "ĸɿ愌4Ǣ踙褈制×g鹂",
+                "role": "aPO/舏ȱ!u崳炣ʮ蛤.ü挂ť._ŕ",
+                "type": "狴辄ǆ竂Ƞ鞹G醶Đ负fzǺ殖L",
+                "user": "照罆;ǩɘ`Yò[鍔G"
+              },
+              "seccompProfile": {
+                "type": "檹哮烇Y鍌Ǚ糖婴"
+              },
+              "supplementalGroupsPolicy": "Nɞû",
+              "windowsOptions": {
+                "gmsaCredentialSpec": "!Ê輪翪üĵ",
+                "hostProcess": false,
+                "runAsUserName": "c颜f"
+              }
+            },
+            "serviceAccount": "Þʯ飝ȫǧ眢Č4笶¨聐栞簊斉",
+            "serviceAccountName": "Þʯ飝ȫǧ眢Č4笶¨聐栞簊斉",
+            "shareProcessNamespace": false,
+            "subdomain": "镥D賲币ʂŭŅ",
+            "terminationGracePeriodSeconds": 103652237,
+            "tolerations": [
+              {
+                "effect": "恡驮K各楷屭璟e猘ɛ纘Æǌxƽ!ŀ",
+                "key": "`",
+                "operator": "uǞĖ2ů",
+                "tolerationSeconds": 8715909344380449157,
+                "value": "n"
+              }
+            ]
+          }
+        },
+        "updateStrategy": {
+          "rollingUpdate": {
+            "partition": 720879728
+          },
+          "type": "槸əʥ缡窎Ȳȁǃ(暥鉕鬞鸠ʜD僝椝"
+        }
+      },
+      "status": {
+        "availableReplicas": -992630787,
+        "collisionCount": -1933239056,
+        "conditions": [
+          {
+            "lastTransitionTime": "2777-03-07T08:29:10Z",
+            "message": "砕Yʬ",
+            "reason": "L粞~Ǯ旙rQ`?í锞尫ó貗$ģ臽7C",
+            "status": "u`宐I岵\u0026]ƙ8LQ(",
+            "type": "/Ǎ"
+          }
+        ],
+        "currentReplicas": -772514437,
+        "currentRevision": "âĠ鱙ʫt瀸#鎫Ȍ汖GM·aļǞ嗋",
+        "readyReplicas": 699793519,
+        "replicas": -1872660201,
+        "updateRevision": "Ǧ鐄畺g瘴ã0:oŦ駭缰ǯ",
+        "updatedReplicas": 1077133409
+      }
+    }
+  ],
+  "kind": "StatefulSetList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

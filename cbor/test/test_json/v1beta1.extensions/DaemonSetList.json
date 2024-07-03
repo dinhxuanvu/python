@@ -1,0 +1,185 @@
+{
+  "apiVersion": "extensions/v1beta1",
+  "items": [
+    {
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "spec": {
+        "minReadySeconds": 1906292770,
+        "revisionHistoryLimit": 967990204,
+        "selector": {
+          "matchExpressions": [
+            {
+              "key": "b7-x8k/9G--AfyN_aD.2..n-.7O_.F-0..-pZQ1-w",
+              "operator": "Exists"
+            }
+          ]
+        },
+        "template": {
+          "metadata": {
+            "creationTimestamp": "2054-08-27T10:02:38Z",
+            "generateName": "ʏʤȺ鍎zTĀ復搌嬬K憅",
+            "name": "蘷ř惥Pßʓ碻Ĝ:梯6ǯ",
+            "namespace": "{MfaÐɠ¦皺d",
+            "resourceVersion": "12888369679139695892",
+            "uid": ".+乤澰齂"
+          },
+          "spec": {
+            "activeDeadlineSeconds": 427416072081581178,
+            "affinity": {
+              "nodeAffinity": {},
+              "podAntiAffinity": {
+                "preferredDuringSchedulingIgnoredDuringExecution": [
+                  {
+                    "podAffinityTerm": {
+                      "labelSelector": {
+                        "matchLabels": {
+                          "0-qJl6__s.-p.3N0": "i-H1C.41"
+                        }
+                      },
+                      "namespaceSelector": {
+                        "matchExpressions": [
+                          {
+                            "key": "nn-n-89-8-w2u--0w/1h7-1_6Dqf.-.qM.Z._._._2_uU3-T-_2__6.LO-mg.-D_J",
+                            "operator": "NotIn",
+                            "values": [
+                              "Q8"
+                            ]
+                          }
+                        ]
+                      },
+                      "namespaces": [
+                        "T猴噩坛碚ȂņŅTN奛.ƺ儁ȓ"
+                      ],
+                      "topologyKey": "?í锞尫ó貗$ģ臽7CĻ洝"
+                    },
+                    "weight": -537368537
+                  }
+                ],
+                "requiredDuringSchedulingIgnoredDuringExecution": [
+                  {
+                    "labelSelector": {
+                      "matchExpressions": [
+                        {
+                          "key": "5c---l20bn-d3--0ann7de---sj8u-v53bpc7b9004/w.-___.EY.XsM5_.u-0.___t_F6j8._.3b.7--79Z7B._5yv_lb_a._cC",
+                          "operator": "In",
+                          "values": [
+                            "Et.__e-w6_90b-V483.__8R_.--ZA7q",
+                            "y-LiI_.t6-F_.-i..sHj.g..Cm.3Q3..-l-b4.i.-.SUPf97..7.c6._e_5q_9"
+                          ]
+                        }
+                      ]
+                    },
+                    "matchLabelKeys": [
+                      "ɀʟKĔǡ8ʍ琎Ļȅ\u003c猻"
+                    ],
+                    "namespaceSelector": {
+                      "matchExpressions": [
+                        {
+                          "key": "K__ZA_.9._6y.-.v-.k.y547-j-12cbV",
+                          "operator": "DoesNotExist"
+                        },
+                        {
+                          "key": "b--_.-_Q_-6Os96O",
+                          "operator": "DoesNotExist"
+                        }
+                      ]
+                    },
+                    "topologyKey": "鿍Ŝ=÷ħa"
+                  }
+                ]
+              }
+            },
+            "automountServiceAccountToken": true,
+            "containers": null,
+            "dnsPolicy": "Default",
+            "enableServiceLinks": true,
+            "hostNetwork": true,
+            "hostPID": true,
+            "hostUsers": false,
+            "hostname": "蹟儈",
+            "imagePullSecrets": [
+              {
+                "name": "ÌǂW*仠ǯ蹑rʯȑ顭zɚPƸ"
+              }
+            ],
+            "nodeName": "銸+俌ʒ",
+            "os": {
+              "name": "橲ƈ鱌弰ö銇ś´ʍ:兇Ƈ胏tĵ鸾"
+            },
+            "preemptionPolicy": "lÿ-ywPYŪ-溤'瘫筱UYĜ",
+            "priority": -1249042586,
+            "priorityClassName": "-靁X\\Wlq孯ʞǐǸʒ{歜",
+            "restartPolicy": "Always",
+            "schedulerName": "儨_o螮蒆Hʯ",
+            "securityContext": {
+              "appArmorProfile": {
+                "type": "õ杛\u003c[乬K扔鐏qlG¦澹焃|09Ő"
+              },
+              "runAsGroup": -3026470522579249494,
+              "runAsUser": -2644033461168089255,
+              "seccompProfile": {
+                "type": ""
+              },
+              "supplementalGroups": [
+                -8001126830772026753
+              ],
+              "supplementalGroupsPolicy": "",
+              "windowsOptions": {}
+            },
+            "serviceAccount": "Ǯǅ",
+            "serviceAccountName": "Ǯǅ",
+            "shareProcessNamespace": true,
+            "subdomain": "Ɋ詊梐V©¸Ž",
+            "terminationGracePeriodSeconds": 30,
+            "volumes": [
+              {
+                "glusterfs": {
+                  "endpoints": "G3籥C渵8ÿs蔒喌",
+                  "path": "蠮Ţ閚ġ@汗髤嫱嗘爀Eʯ"
+                },
+                "name": "ǲ0qm相娚{ǀŲ灾囋Ĩ"
+              }
+            ]
+          }
+        },
+        "templateGeneration": -8836068790761812719,
+        "updateStrategy": {
+          "type": "OnDelete"
+        }
+      },
+      "status": {
+        "currentNumberScheduled": -549566119,
+        "desiredNumberScheduled": 584132347,
+        "numberAvailable": 1458452068,
+        "numberMisscheduled": -896669564,
+        "numberReady": 909916476,
+        "numberUnavailable": 1307512753,
+        "observedGeneration": -8249206192932408998,
+        "updatedNumberScheduled": -2006555353
+      }
+    }
+  ],
+  "kind": "DaemonSetList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

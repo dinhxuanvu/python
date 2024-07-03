@@ -1,0 +1,33 @@
+{
+  "apiVersion": "rbac.authorization.k8s.io/v1",
+  "items": [
+    {
+      "aggregationRule": {},
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "rules": null
+    }
+  ],
+  "kind": "ClusterRoleList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

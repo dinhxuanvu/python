@@ -1,0 +1,70 @@
+{
+  "apiVersion": "admissionregistration.k8s.io/v1alpha1",
+  "kind": "ValidatingAdmissionPolicyBinding",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "matchResources": {
+      "matchPolicy": "Exact",
+      "namespaceSelector": {
+        "matchExpressions": [
+          {
+            "key": "u2-s",
+            "operator": "NotIn",
+            "values": [
+              "2BA___.--b2_-._-O_0_6C-v_.._.Z.G-..3.-8bA_f-.5b"
+            ]
+          }
+        ]
+      },
+      "objectSelector": {
+        "matchExpressions": [
+          {
+            "key": "8",
+            "operator": "DoesNotExist"
+          },
+          {
+            "key": "C.-4wcF--2-_20a_3._7_l-_.a_--UN4Nn-P9_s",
+            "operator": "Exists"
+          }
+        ]
+      }
+    },
+    "paramRef": {
+      "name": "排",
+      "namespace": "Rƨ®鮃c狃鎥wS9慯",
+      "parameterNotFoundAction": "Deny",
+      "selector": {
+        "matchExpressions": [
+          {
+            "key": "F-0..-pZQ1-3-_FC---O.6M_4--Zc.3N._1x-gC5.-L__8__v",
+            "operator": "Exists"
+          },
+          {
+            "key": "j__3p",
+            "operator": "Exists"
+          }
+        ]
+      }
+    },
+    "policyName": "驵uɾ"
+  }
+}

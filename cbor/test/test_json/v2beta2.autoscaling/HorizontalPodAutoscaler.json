@@ -1,0 +1,162 @@
+{
+  "apiVersion": "autoscaling/v2beta2",
+  "kind": "HorizontalPodAutoscaler",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "behavior": {
+      "scaleDown": {
+        "policies": [
+          {
+            "periodSeconds": -1838505087,
+            "type": "Pods",
+            "value": 1108279204
+          },
+          {
+            "periodSeconds": -649461922,
+            "type": "Percent",
+            "value": -644050486
+          }
+        ],
+        "selectPolicy": "Min",
+        "stabilizationWindowSeconds": -191623941
+      },
+      "scaleUp": {
+        "policies": [
+          {
+            "periodSeconds": -767478721,
+            "type": "Pods",
+            "value": 1726486241
+          },
+          {
+            "periodSeconds": 1027908708,
+            "type": "Percent",
+            "value": 1449580135
+          }
+        ],
+        "selectPolicy": "Max",
+        "stabilizationWindowSeconds": -191623941
+      }
+    },
+    "maxReplicas": -826815536,
+    "metrics": [
+      {
+        "pods": {
+          "metric": {
+            "name": "鈖溡饬蝽\"ƒ谓默bȘYwÜ%",
+            "selector": {
+              "matchExpressions": [
+                {
+                  "key": "u--3--7j2.2-45-7/8.3.8",
+                  "operator": "In",
+                  "values": [
+                    "3_7_l-_.a_--UN4Nn-P9_f-.._6z",
+                    "eieVhBJ__6-.o_.-O_V6M34.P__-.ya.u"
+                  ]
+                }
+              ],
+              "matchLabels": {
+                "Zc.3N._1x-gC5.-L__8__G-_..-5k.-5_.HI.._.wLx85W...-.EyH4-4.___R": "3_--B.L3--Z-..-__1mn_.-2-C-W-.BA___.--2"
+              }
+            }
+          },
+          "target": {
+            "averageValue": "796",
+            "type": "AverageValue"
+          }
+        },
+        "type": "Pods"
+      },
+      {
+        "object": {
+          "describedObject": {
+            "kind": "",
+            "name": ""
+          },
+          "metric": {
+            "name": "ʯȑ",
+            "selector": {
+              "matchExpressions": [
+                {
+                  "key": "2-94p0-6f-99n-fwdxi--i-d9-i4-zr-5gu-y6-yq8---yya-i--4t9/Y..5Di7_-3_-8-_--X-7L.__._1_-..1_y3.K-0_Z..O.p",
+                  "operator": "In",
+                  "values": [
+                    "N.-i..sH3"
+                  ]
+                }
+              ]
+            }
+          },
+          "target": {
+            "type": "Value",
+            "value": "796"
+          }
+        },
+        "type": "Object"
+      },
+      {
+        "resource": {
+          "name": "cpu",
+          "target": {
+            "averageUtilization": 954585002,
+            "type": "Utilization"
+          }
+        },
+        "type": "Resource"
+      }
+    ],
+    "minReplicas": 2079619578,
+    "scaleTargetRef": {
+      "apiVersion": "Rƨ®鮃c狃鎥wS9慯",
+      "kind": "驵uɾ",
+      "name": "排"
+    }
+  },
+  "status": {
+    "conditions": null,
+    "currentMetrics": [
+      {
+        "pods": {
+          "current": {
+            "averageValue": "262"
+          },
+          "metric": {
+            "name": "儍6緐T覴Ɣ嬌i"
+          }
+        },
+        "type": "Pods"
+      },
+      {
+        "resource": {
+          "current": {
+            "averageUtilization": -2084996986,
+            "averageValue": "262"
+          },
+          "name": "cpu"
+        },
+        "type": "Resource"
+      }
+    ],
+    "currentReplicas": 245915009,
+    "desiredReplicas": 338897349,
+    "observedGeneration": 8261625134846401053
+  }
+}

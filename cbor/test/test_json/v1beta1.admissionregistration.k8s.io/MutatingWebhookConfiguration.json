@@ -1,0 +1,73 @@
+{
+  "apiVersion": "admissionregistration.k8s.io/v1beta1",
+  "kind": "MutatingWebhookConfiguration",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "webhooks": [
+    {
+      "admissionReviewVersions": [
+        "v1beta1"
+      ],
+      "clientConfig": {
+        "service": {
+          "name": "ƒ谓默bȘYwÜ%爞Ɗ3詢Ɠƌ",
+          "namespace": "s;Ŕ烵wEĝ垵ʔ厬;JK[n{",
+          "port": 1707954723
+        }
+      },
+      "failurePolicy": "Fail",
+      "matchConditions": [
+        {
+          "expression": "9ɹ儷P",
+          "name": ""
+        }
+      ],
+      "matchPolicy": "Exact",
+      "name": "uɾ轊2Rƨ®鮃c狃鎥",
+      "namespaceSelector": {
+        "matchExpressions": [
+          {
+            "key": "6i8130c8b--fc45nb77-e-45n.89eie-h----6j9o-0o-5/5X4-8_C1AQ.f-6_-.__._tTonlZ--.78_k-_.._0",
+            "operator": "Exists"
+          },
+          {
+            "key": "w--32-8w-x85f.39-3/gp....27._d..-._8..Kx8-.J_p_8hxB-6_.-OE5-8s-Jb6po.6505-aiM.s",
+            "operator": "In",
+            "values": [
+              "4-4.K"
+            ]
+          }
+        ]
+      },
+      "objectSelector": {
+        "matchExpressions": [
+          {
+            "key": "q---i4-5ch---71km55-p-2nx-5m8eds8e-4.5-9-x9xsx77-39/a_3._7l",
+            "operator": "DoesNotExist"
+          }
+        ]
+      },
+      "reinvocationPolicy": "Never",
+      "sideEffects": "黚锞荮G煕ǋʬȊ",
+      "timeoutSeconds": -1293137941
+    }
+  ]
+}

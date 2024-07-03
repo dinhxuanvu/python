@@ -1,0 +1,128 @@
+{
+  "apiVersion": "batch/v1",
+  "kind": "Job",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "backoffLimit": 2147483647,
+    "backoffLimitPerIndex": -1751106184,
+    "completionMode": "NonIndexed",
+    "completions": 1234175333,
+    "managedBy": "\u003cȼȀDĝ\"均奅,",
+    "manualSelector": false,
+    "parallelism": 1283059892,
+    "podReplacementPolicy": "Failed",
+    "selector": {
+      "matchExpressions": [
+        {
+          "key": "1D--6ixL.N_3Bh1.cR5-7___k...__.--__-Ns9.N5X4-8_C1AQ.f-6_-.__.t",
+          "operator": "NotIn",
+          "values": [
+            "m._-O_0_6C-v_.._.Z.G-..3.-8bA_f-.5-b7._-C4.__-1"
+          ]
+        }
+      ],
+      "matchLabels": {
+        "2.n-.7O_.F-0..-pQ": "j3-_FC---O.6M_4--Zc.3N._x"
+      }
+    },
+    "successPolicy": {
+      "rules": null
+    },
+    "suspend": false,
+    "template": {
+      "metadata": {
+        "annotations": {
+          "V©¸Ž\u0026": "ȃGœ°½c"
+        },
+        "creationTimestamp": "2059-08-18T18:18:19Z",
+        "deletionGracePeriodSeconds": 1520234832333579109,
+        "finalizers": [
+          "7º顁5\u003eO磮侇+収0ɏ鑠[釘"
+        ],
+        "generateName": "H鹽矼夶8ǒ8ɴƘ鸍ȏƐTĮ鐫",
+        "generation": -4542165485632564371,
+        "name": "Ȉ篇ɣ訥栍镝馽\u0026ŻeĆ鮔",
+        "namespace": "ŤH\u0026à鸌i®禗ʘĵsƴ癴憁夿Ɯ",
+        "resourceVersion": "12588602061032001199",
+        "selfLink": "吀藉3四÷ɉ濭8鹉ɕʨY"
+      },
+      "spec": {
+        "affinity": {
+          "podAffinity": {}
+        },
+        "containers": null,
+        "dnsConfig": {},
+        "dnsPolicy": "Default",
+        "enableServiceLinks": true,
+        "hostAliases": [
+          {
+            "ip": "Vǻ"
+          }
+        ],
+        "hostPID": true,
+        "hostUsers": true,
+        "imagePullSecrets": [
+          {
+            "name": "Ə"
+          }
+        ],
+        "nodeName": "'",
+        "priorityClassName": "Û",
+        "restartPolicy": "OnFailure",
+        "runtimeClassName": "Ɏ¤uǞĖ2ůɤ阇恡驮",
+        "schedulerName": "脃Ɇ",
+        "securityContext": {
+          "appArmorProfile": {
+            "localhostProfile": "负fz",
+            "type": "J豦HzǢ狴辄ǆ竂Ƞ鞹G醶"
+          },
+          "fsGroup": 7200685639984761679,
+          "fsGroupChangePolicy": "8p孾Ǽxä!Ɖ/ì芨Ç睳",
+          "seLinuxOptions": {
+            "level": "鋌ŐȒ钥馔9ɪ暷o*ŧǫU",
+            "role": "6)k^eǸ+n乥Ȱ晹/ɐ集涷~稙ǆ",
+            "type": "`蕃摬ʦɀ",
+            "user": "纘Æǌxƽ!ŀ3*lǮX笷"
+          },
+          "supplementalGroups": [
+            -2415953671461734874
+          ],
+          "supplementalGroupsPolicy": "顱楘9$磐Ȭɛ梩鿍Ŝ"
+        },
+        "serviceAccount": "艥岢wȑ槨]-Ǡ蓸8険nbH汇",
+        "serviceAccountName": "艥岢wȑ槨]-Ǡ蓸8険nbH汇",
+        "setHostnameAsFQDN": true,
+        "shareProcessNamespace": false,
+        "subdomain": "ƒ^ȫ=%C",
+        "terminationGracePeriodSeconds": 30
+      }
+    }
+  },
+  "status": {
+    "active": 114139869,
+    "completedIndexes": "â溊",
+    "failed": -1867345560,
+    "failedIndexes": "y性蛬E磯酏",
+    "succeeded": -749615802,
+    "terminating": -947229640
+  }
+}

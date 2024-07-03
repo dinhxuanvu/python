@@ -1,0 +1,39 @@
+{
+  "apiVersion": "policy/v1",
+  "kind": "PodDisruptionBudget",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "selector": {
+      "matchLabels": {
+        "AB__7g_E6-22e5_-9G--AfyN_aD.2..n-.7O_.F-0..-pZQ1-3-_FCy": "O.6M_4--Zc.3N._1x-gC5.-L__8__G-_..-5k.-5_.HI.._.wLx859"
+      }
+    },
+    "unhealthyPodEvictionPolicy": "aÝ$夼Ĕ黟jɊ"
+  },
+  "status": {
+    "currentHealthy": 1977521639,
+    "desiredHealthy": 1032440182,
+    "disruptionsAllowed": 1,
+    "expectedPods": 1141385846,
+    "observedGeneration": -8007734553013083034
+  }
+}

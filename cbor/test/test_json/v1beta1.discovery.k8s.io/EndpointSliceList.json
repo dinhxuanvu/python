@@ -1,0 +1,57 @@
+{
+  "apiVersion": "discovery.k8s.io/v1beta1",
+  "items": [
+    {
+      "addressType": "IPv4",
+      "endpoints": [
+        {
+          "addresses": [],
+          "conditions": {
+            "ready": false,
+            "serving": true,
+            "terminating": true
+          },
+          "hints": {},
+          "hostname": "蝽",
+          "nodeName": "a姫¬RQ",
+          "targetRef": {
+            "apiVersion": "魶ȅaƘÉȠǎ遲Ŀ奐閘}垥Ûǵ霎×V",
+            "kind": "牍鈹Ɏ釻",
+            "name": "ųȻg",
+            "namespace": "ÒÄ丬",
+            "resourceVersion": "4572177337977727215"
+          },
+          "topology": {
+            "kubernetes.io/hostname": "a姫¬RQ",
+            "topology.kubernetes.io/zone": "§ǫ"
+          }
+        }
+      ],
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "ports": []
+    }
+  ],
+  "kind": "EndpointSliceList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

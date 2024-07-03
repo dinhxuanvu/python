@@ -1,0 +1,38 @@
+{
+  "apiVersion": "authentication.k8s.io/v1beta1",
+  "kind": "TokenReview",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "token": "驵uɾ"
+  },
+  "status": {
+    "authenticated": true,
+    "error": "鈹Ɏ釻sm'Eų",
+    "user": {
+      "groups": [
+        "{魶ȅaƘÉȠǎ遲Ŀ奐閘}垥Ûǵ霎×V"
+      ],
+      "uid": "S9慯ĦĂÔi+巨6ȎU鈖溡",
+      "username": "{\\¦çû犼曓ɩ"
+    }
+  }
+}

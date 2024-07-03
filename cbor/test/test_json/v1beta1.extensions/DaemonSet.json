@@ -1,0 +1,103 @@
+{
+  "apiVersion": "extensions/v1beta1",
+  "kind": "DaemonSet",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "minReadySeconds": -1045131912,
+    "revisionHistoryLimit": 2061549333,
+    "selector": {
+      "matchLabels": {
+        "AB__7g_E6-22e5_-9G--AfyN_aD.2..n-.7O_.F-0..-pZQ1-3-_FCy": "O.6M_4--Zc.3N._1x-gC5.-L__8__G-_..-5k.-5_.HI.._.wLx859"
+      }
+    },
+    "template": {
+      "metadata": {
+        "creationTimestamp": "2017-04-27T02:41:22Z",
+        "finalizers": [
+          "筭0ɽN殩船佌ǈ琇舳s磩韃\"ȓƘ涜衩K"
+        ],
+        "generateName": "绯Ʋ¥坉/",
+        "name": "杻3鈵空i偧ÝgxŦ讯pø1勻叹槹",
+        "namespace": "{ǀŲ灾囋Ĩ棱ĤG3",
+        "resourceVersion": "9044558224517049608",
+        "selfLink": "{ǲȣ圼$Ĥ1ʋ蠮Ţ閚ġ@汗髤嫱",
+        "uid": "ǘā籀Ŋ=ʂɎȈ篇ɣ訥栍镝馽\u0026Że"
+      },
+      "spec": {
+        "affinity": {},
+        "containers": null,
+        "dnsPolicy": "ClusterFirst",
+        "enableServiceLinks": true,
+        "hostIPC": true,
+        "hostNetwork": true,
+        "hostPID": true,
+        "hostname": "H汇ɘ'蹩ÓU倚ʫnĝ彔ŋɨ燣Ŵ",
+        "nodeName": "ɴƘ",
+        "os": {
+          "name": "ȏ~懁ʦo啖ɣū躼MȸƮ煬øN"
+        },
+        "priorityClassName": "憸ɝ' śȑ怍ʉ7饖涇",
+        "resourceClaims": [
+          {
+            "name": "%C缞ƌ_ŖɗǦS镥",
+            "resourceClaimName": "賲币ʂŭŅę笿ȍƓɎ¤uǞĖ2ůɤ阇恡"
+          }
+        ],
+        "restartPolicy": "OnFailure",
+        "schedulerName": "pÞʯ飝ȫǧ眢Č4笶¨聐栞簊斉Gy",
+        "securityContext": {
+          "runAsGroup": -4700621340518102197,
+          "runAsUser": -2095382228079486769,
+          "seccompProfile": {
+            "type": "ê{炿3zɝ"
+          },
+          "windowsOptions": {
+            "gmsaCredentialSpec": "Ə81ĆvɦZ緼敖韻ǡj6)",
+            "gmsaCredentialSpecName": "6Kʒʣ",
+            "runAsUserName": "^eǸ+n乥Ȱ晹/ɐ集涷~"
+          }
+        },
+        "setHostnameAsFQDN": false,
+        "subdomain": "p灎LFȗe|ʝ½6e珗1剣",
+        "terminationGracePeriodSeconds": 30
+      }
+    },
+    "templateGeneration": -346008762475725583,
+    "updateStrategy": {
+      "rollingUpdate": {
+        "maxSurge": "666948986%",
+        "maxUnavailable": 0
+      },
+      "type": "RollingUpdate"
+    }
+  },
+  "status": {
+    "currentNumberScheduled": 1317817167,
+    "desiredNumberScheduled": 937570398,
+    "numberAvailable": -1859363988,
+    "numberMisscheduled": 1298978187,
+    "numberReady": 1291303033,
+    "numberUnavailable": 461391908,
+    "observedGeneration": 4808311301093100075,
+    "updatedNumberScheduled": -2138765973
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "apiVersion": "admissionregistration.k8s.io/v1",
+  "items": [
+    {
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "spec": {
+        "failurePolicy": "灎LFȗe|ʝ½6e珗1剣F鶡pÞʯ",
+        "matchConstraints": {
+          "matchPolicy": "ɽ艥岢wȑ槨]",
+          "namespaceSelector": {
+            "matchExpressions": [
+              {
+                "key": "3-3-ch-5-3ld-s20u--1mn-9u2f-s-j2-----7btb2-m4-k--0-6-uv-12-3.3ox-6f1---u--3--7jm--8huet-i9eie-h----6j9o-0o---4/aiM.2-_.c5_.__T1D--6ixL.N_3Bh1.cRg",
+                "operator": "Exists"
+              },
+              {
+                "key": "n-.7O_.F-0..-pZQ1-3-_FC---O.6M_4--Zc.33",
+                "operator": "Exists"
+              }
+            ]
+          },
+          "objectSelector": {
+            "matchExpressions": [
+              {
+                "key": "q--4-p0/RP9_-.---.._3R",
+                "operator": "Exists"
+              }
+            ]
+          },
+          "resourceRules": [
+            {
+              "apiGroups": [
+                ""
+              ],
+              "apiVersions": [
+                "ɹ儷P"
+              ],
+              "scope": "*"
+            }
+          ]
+        },
+        "validations": [
+          {
+            "expression": "炲",
+            "message": "8険nbH汇ɘ'蹩ÓU倚ʫn",
+            "messageExpression": "彔ŋɨ燣Ŵ"
+          }
+        ],
+        "variables": [
+          {
+            "expression": "鼮憸ɝ' śȑ怍ʉ",
+            "name": "ǧ眢Č4笶¨聐栞簊斉Gy"
+          }
+        ]
+      },
+      "status": {
+        "observedGeneration": 1874274865997097006
+      }
+    }
+  ],
+  "kind": "ValidatingAdmissionPolicyList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "action": "]­ɈA{MfaÐ",
+  "apiVersion": "v1",
+  "count": 1303034667,
+  "eventTime": "1970-01-01T00:00:01.000001Z",
+  "firstTimestamp": "2162-12-01T02:31:01Z",
+  "involvedObject": {
+    "apiVersion": "驵uɾ",
+    "fieldPath": "ȘYwÜ",
+    "kind": "排",
+    "name": "烵wEĝ垵ʔ厬;JK[n{魶ȅa",
+    "namespace": "Rƨ®鮃c狃鎥wS9慯",
+    "resourceVersion": "9530167299180796101"
+  },
+  "kind": "Event",
+  "lastTimestamp": "2171-06-13T11:39:50Z",
+  "message": "Ɠƌ眎ȿ¤牍鈹Ɏ釻sm",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "reason": "奐閘}垥",
+  "related": {
+    "apiVersion": "ʩ4Ȏ#ɵM笶t隿誦\u003ch铗",
+    "fieldPath": "鵅{ǲ",
+    "kind": "孽v宁ƧôSʖɻ杻3鈵空i偧ÝgxŦ讯",
+    "name": "ø1勻叹槹ǲ0qm相娚{ǀŲ灾囋Ĩ棱Ĥ",
+    "resourceVersion": "9631202499262873850"
+  },
+  "reportingComponent": "8ÿs",
+  "reportingInstance": "1ʋ蠮Ţ閚ġ@汗髤嫱嗘爀Eʯɝ",
+  "series": {
+    "count": -1038820248,
+    "lastObservedTime": "1970-01-01T00:00:03.000003Z"
+  },
+  "source": {
+    "component": "丬孖鴾k螵Śþŝ@4~~;|H睔ŇAA",
+    "host": "(Ȭ蚊鬳魠ƶȒʎ垎bv覼骢3"
+  },
+  "type": "ʓ碻Ĝ:梯6ǯ珔嘲 ɅA"
+}

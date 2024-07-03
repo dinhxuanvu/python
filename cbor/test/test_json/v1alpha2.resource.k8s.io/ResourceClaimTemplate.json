@@ -1,0 +1,57 @@
+{
+  "apiVersion": "resource.k8s.io/v1alpha2",
+  "kind": "ResourceClaimTemplate",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "metadata": {
+      "creationTimestamp": "2037-01-26T21:49:44Z",
+      "finalizers": [
+        ""
+      ],
+      "generateName": "排",
+      "generation": 3582018914006547045,
+      "managedFields": [
+        {
+          "apiVersion": "Pßʓ碻Ĝ:梯6ǯ珔嘲 ",
+          "fieldsType": "鍎zTĀ復搌嬬K憅蝯弚Ƌ幠H/ʩ",
+          "manager": "丬孖鴾k螵Śþŝ@4~~;|H睔ŇAA",
+          "operation": "(Ȭ蚊鬳魠ƶȒʎ垎bv覼骢3",
+          "subresource": "Ȏ#ɵM笶t隿誦\u003ch铗}Ð卅"
+        }
+      ],
+      "name": "驵uɾ",
+      "namespace": "Rƨ®鮃c狃鎥wS9慯",
+      "resourceVersion": "11211098049529308748",
+      "selfLink": "烵wEĝ垵ʔ厬;JK[n{魶ȅa",
+      "uid": "ôS"
+    },
+    "spec": {
+      "allocationMode": "Immediate",
+      "parametersRef": {
+        "apiGroup": "+乤澰齂Ý僛皫2绯Ʋ¥",
+        "kind": "相娚{ǀŲ灾",
+        "name": "ĎOaŊ芔鵅{ǲȣ圼$Ĥ1ʋ蠮"
+      },
+      "resourceClassName": "aÝ$夼Ĕ黟jɊ"
+    }
+  }
+}

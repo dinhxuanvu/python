@@ -1,0 +1,125 @@
+{
+  "apiVersion": "v1",
+  "kind": "PersistentVolume",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "azureDisk": {
+      "cachingMode": "ReadWrite",
+      "diskName": "",
+      "diskURI": "",
+      "fsType": "ext4",
+      "kind": "Shared",
+      "readOnly": false
+    },
+    "azureFile": {
+      "readOnly": true,
+      "secretName": "cJ鴶",
+      "secretNamespace": "N殩船佌ǈ",
+      "shareName": "`毓2廘Ĭ}g"
+    },
+    "capacity": {
+      "uɾ轊2Rƨ®鮃c狃鎥": "105"
+    },
+    "claimRef": {
+      "apiVersion": "Zp灎LFȗe|",
+      "fieldPath": "á疈œŔşɩê傅譸ʐ鸭ȏ~懁ʦ",
+      "kind": "櫙ưg@v恨ƖU]掄š*",
+      "name": "ɝ' ś",
+      "namespace": "ȫǧ眢Č4笶¨聐栞簊斉Gyƹa",
+      "resourceVersion": "18428877966009052125"
+    },
+    "csi": {
+      "driver": "H鹽矼夶8ǒ8ɴƘ鸍ȏƐTĮ鐫",
+      "fsType": "免Rń©缗炌浫60ÌǂW*仠",
+      "nodeExpandSecretRef": {
+        "name": "nbH汇ɘ'蹩Ó",
+        "namespace": "Y鮭圁撑ɣ绦湇l"
+      },
+      "nodePublishSecretRef": {
+        "name": "7º顁5\u003eO磮侇+収0ɏ鑠[釘",
+        "namespace": "ı濄9ɹ儷P詘Ā騤ƖǘIȵ鹪貫觨|炲哜"
+      },
+      "nodeStageSecretRef": {
+        "name": "rʯȑ顭zɚPƸƣɠ7Ɋ詊梐V©¸",
+        "namespace": "y篊ȃGœ°½c'"
+      },
+      "readOnly": true,
+      "volumeHandle": "ŤH\u0026à鸌i®禗ʘĵsƴ癴憁夿Ɯ"
+    },
+    "fc": {
+      "fsType": "Ĕ黟jɊ.+",
+      "targetWWNs": [
+        "隿誦\u003ch铗}Ð卅ʝ(C猦)~aÝ$"
+      ],
+      "wwids": [
+        "齂Ý僛皫2绯Ʋ¥坉/浏7ȩë馹ĎOa"
+      ]
+    },
+    "flocker": {
+      "datasetName": "芔鵅{ǲȣ圼$Ĥ1ʋ蠮Ţ閚ġ@汗髤嫱",
+      "datasetUUID": "Z韏臟L稃Ç揱łʯĥ秵Ǯǅ/,Z引ɄǮ"
+    },
+    "gcePersistentDisk": {
+      "fsType": "ƒ谓默bȘYwÜ%爞Ɗ3詢Ɠƌ",
+      "partition": 512486781,
+      "pdName": "s;Ŕ烵wEĝ垵ʔ厬;JK[n{",
+      "readOnly": true
+    },
+    "hostPath": {
+      "path": "$寥\u003eȰǂÒÄ",
+      "type": "Socket"
+    },
+    "iscsi": {
+      "iqn": "",
+      "iscsiInterface": "'",
+      "lun": 0,
+      "targetPortal": ""
+    },
+    "nfs": {
+      "path": "|H睔ŇAAʑ:鯹#1J奘Ó#",
+      "readOnly": true,
+      "server": "Ȼg^嫄舅a姫¬RQ"
+    },
+    "persistentVolumeReclaimPolicy": "Recycle",
+    "rbd": {
+      "image": "",
+      "keyring": "aÐɠ¦皺",
+      "monitors": null,
+      "pool": "z偁蘷ř惥Pßʓ碻Ĝ:梯6ǯ珔",
+      "user": "ʤȺ鍎zTĀ復搌嬬K憅蝯弚Ƌ"
+    },
+    "scaleIO": {
+      "fsType": "譛ĥƌ5偷Ʈ芃?眕馔@*喏蚒Ȣ鯍",
+      "gateway": "",
+      "secretRef": null,
+      "storageMode": "s磩韃\"ȓƘ涜衩KųĄǘ",
+      "system": ""
+    },
+    "storageClassName": "ȸƮ煬øN暪ʬĒF形們豿¼Ôʢ",
+    "volumeAttributesClassName": "D賲",
+    "volumeMode": "Filesystem"
+  },
+  "status": {
+    "message": "vɦZ緼敖韻ǡj6)k^eǸ",
+    "phase": "Pending"
+  }
+}

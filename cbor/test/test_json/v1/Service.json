@@ -1,0 +1,59 @@
+{
+  "apiVersion": "v1",
+  "kind": "Service",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "allocateLoadBalancerNodePorts": true,
+    "clusterIP": "{魶ȅaƘÉȠǎ遲Ŀ奐閘}垥Ûǵ霎×V",
+    "externalName": "\u003eȰǂÒÄ丬孖鴾k螵Ś",
+    "externalTrafficPolicy": "Cluster",
+    "healthCheckNodePort": 31030722,
+    "internalTrafficPolicy": "Cluster",
+    "loadBalancerIP": "ŝ@4~~",
+    "loadBalancerSourceRanges": [
+      "睔ŇAAʑ:鯹"
+    ],
+    "ports": [
+      {
+        "name": "7巕排{\\¦çû犼曓ɩȼs;Ŕ",
+        "nodePort": 415001669,
+        "port": -826815536,
+        "protocol": "SCTP",
+        "targetPort": 60078
+      }
+    ],
+    "publishNotReadyAddresses": true,
+    "selector": {
+      "厬": "U鈖溡饬"
+    },
+    "sessionAffinity": "ClientIP",
+    "sessionAffinityConfig": {
+      "clientIP": {
+        "timeoutSeconds": 43558
+      }
+    },
+    "type": "LoadBalancer"
+  },
+  "status": {
+    "loadBalancer": {}
+  }
+}

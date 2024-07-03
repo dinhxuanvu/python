@@ -1,0 +1,145 @@
+{
+  "apiVersion": "apps/v1beta1",
+  "items": [
+    {
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "spec": {
+        "minReadySeconds": -1136925094,
+        "paused": true,
+        "progressDeadlineSeconds": 1324633383,
+        "replicas": -22547423,
+        "revisionHistoryLimit": 886753476,
+        "rollbackTo": {
+          "revision": 570771684916069704
+        },
+        "selector": {
+          "matchExpressions": [
+            {
+              "key": "3-3-ch-5-3ld-s20u--1mn-9u2f-s-j2-----7btb2-m4-k--0-6-uv-12-3.3ox-6f1---u--3--7jm--8huet-i9eie-h----6j9o-0o---4/aiM.2-_.c5_.__T1D--6ixL.N_3Bh1.cRg",
+              "operator": "Exists"
+            },
+            {
+              "key": "n-.7O_.F-0..-pZQ1-3-_FC---O.6M_4--Zc.33",
+              "operator": "Exists"
+            }
+          ]
+        },
+        "strategy": {
+          "rollingUpdate": {
+            "maxSurge": "1673868828%",
+            "maxUnavailable": 0
+          },
+          "type": "RollingUpdate"
+        },
+        "template": {
+          "metadata": {
+            "annotations": {
+              "磮侇+収0ɏ鑠[釘l帐^輹_粎劄ʏ道ɽ": "ǘIȵ鹪貫觨|炲哜z琝¾瑤/"
+            },
+            "creationTimestamp": "2053-08-11T20:28:13Z",
+            "deletionGracePeriodSeconds": 1795920129673903637,
+            "generateName": ")ô縪ǫž吀藉",
+            "generation": -7313787363111390197,
+            "name": "$a赽曯瘛¤0ƊŤH\u0026à鸌i®禗ʘĵs",
+            "namespace": "ń©缗炌浫60ÌǂW*仠ǯ蹑rʯ",
+            "resourceVersion": "11909365095599268903",
+            "selfLink": "鰚O伌ņ膅]蹟儈针x}CR摓聳",
+            "uid": "ȺMY鮭圁撑ɣ绦湇lġZp灎LFȗe|"
+          },
+          "spec": {
+            "activeDeadlineSeconds": -1144541112640882613,
+            "affinity": {},
+            "containers": null,
+            "dnsConfig": {},
+            "dnsPolicy": "Default",
+            "enableServiceLinks": true,
+            "hostAliases": [
+              {
+                "ip": "ǮX笷Ɵ"
+              }
+            ],
+            "hostPID": true,
+            "hostUsers": false,
+            "hostname": "¼Ôʢ脃",
+            "nodeName": "yƹ",
+            "preemptionPolicy": "乥Ȱ晹/ɐ集涷~稙ǆ妅",
+            "priorityClassName": "TɅ暔ʠ+",
+            "restartPolicy": "Always",
+            "schedulerName": "default-scheduler",
+            "schedulingGates": [
+              {
+                "name": "3zɝń怽BxiW緶庴"
+              }
+            ],
+            "securityContext": {
+              "fsGroup": 1692640527731598582,
+              "runAsGroup": 4360150243353756959,
+              "runAsUser": 6800609862341671673,
+              "seLinuxOptions": {
+                "level": "ĸɿ愌4Ǣ踙褈制×g鹂",
+                "role": "aPO/舏ȱ!u崳炣ʮ蛤.ü挂ť._ŕ",
+                "type": "狴辄ǆ竂Ƞ鞹G醶Đ负fzǺ殖L",
+                "user": "照罆;ǩɘ`Yò[鍔G"
+              },
+              "seccompProfile": {
+                "type": "檹哮烇Y鍌Ǚ糖婴"
+              },
+              "supplementalGroupsPolicy": "Nɞû",
+              "windowsOptions": {
+                "gmsaCredentialSpec": "!Ê輪翪üĵ",
+                "hostProcess": false,
+                "runAsUserName": "c颜f"
+              }
+            },
+            "serviceAccount": "Þʯ飝ȫǧ眢Č4笶¨聐栞簊斉",
+            "serviceAccountName": "Þʯ飝ȫǧ眢Č4笶¨聐栞簊斉",
+            "shareProcessNamespace": false,
+            "subdomain": "镥D賲币ʂŭŅ",
+            "terminationGracePeriodSeconds": 103652237,
+            "tolerations": [
+              {
+                "effect": "恡驮K各楷屭璟e猘ɛ纘Æǌxƽ!ŀ",
+                "key": "`",
+                "operator": "uǞĖ2ů",
+                "tolerationSeconds": 8715909344380449157,
+                "value": "n"
+              }
+            ]
+          }
+        }
+      },
+      "status": {
+        "availableReplicas": 1274760210,
+        "collisionCount": -727098381,
+        "observedGeneration": -3925311007184997365,
+        "readyReplicas": 1493998766,
+        "replicas": -1991810780,
+        "unavailableReplicas": -229961089,
+        "updatedReplicas": -602644402
+      }
+    }
+  ],
+  "kind": "DeploymentList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

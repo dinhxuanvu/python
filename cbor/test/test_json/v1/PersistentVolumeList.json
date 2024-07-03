@@ -1,0 +1,142 @@
+{
+  "apiVersion": "v1",
+  "items": [
+    {
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "spec": {
+        "azureDisk": {
+          "cachingMode": "ReadWrite",
+          "diskName": "",
+          "diskURI": "",
+          "fsType": "ext4",
+          "kind": "Shared",
+          "readOnly": false
+        },
+        "cinder": {
+          "fsType": "ā籀Ŋ=ʂɎȈ篇ɣ訥栍镝馽\u0026ŻeĆ鮔R",
+          "readOnly": true,
+          "volumeID": "Ǳ,@戽Ǝ澬y*"
+        },
+        "claimRef": {
+          "apiVersion": "戊",
+          "fieldPath": "ʒʣǸƏ81Ćvɦ",
+          "kind": "币ʂŭŅę笿ȍ",
+          "name": "2ůɤ阇恡驮K各楷屭璟",
+          "namespace": "ƺ`YÞ欏",
+          "resourceVersion": "9288992625317773150"
+        },
+        "fc": {
+          "fsType": "g藶7",
+          "wwids": [
+            "赽曯瘛¤0Ɗ"
+          ]
+        },
+        "gcePersistentDisk": {
+          "fsType": "ȅaƘÉȠǎ遲Ŀ奐閘}垥Ûǵ霎×V",
+          "partition": 1410808421,
+          "pdName": "ĦĂÔi+巨6ȎU鈖溡饬蝽\"",
+          "readOnly": true
+        },
+        "glusterfs": {
+          "endpoints": "AAʑ:鯹#1J奘Ó#·",
+          "path": "v覼骢3ŖĐ垓",
+          "readOnly": true
+        },
+        "hostPath": {
+          "path": "Ɏ釻sm'EųȻg^嫄舅a姫¬RQ",
+          "type": "§ǫ"
+        },
+        "iscsi": {
+          "iqn": "",
+          "iscsiInterface": "Hs(èÍ筭0ɽN殩船佌ǈ琇舳s磩",
+          "lun": 0,
+          "targetPortal": ""
+        },
+        "local": {
+          "path": "Ǡ蓸8険nbH汇ɘ'蹩ÓU倚ʫ"
+        },
+        "nfs": {
+          "path": "",
+          "server": "K枑_鯵gʏʤȺ鍎zTĀ復搌嬬K憅蝯"
+        },
+        "persistentVolumeReclaimPolicy": "Recycle",
+        "photonPersistentDisk": {
+          "fsType": "gqǹ撖r黚锞荮G煕ǋ",
+          "pdID": "R摓聳y篊ȃGœ°½c'"
+        },
+        "quobyte": {
+          "group": "揱łʯĥ秵Ǯǅ/,Z",
+          "readOnly": true,
+          "registry": "{ǀŲ灾囋Ĩ棱ĤG3",
+          "tenant": "俌ʒĝ藂!O腀",
+          "user": "爀Eʯɝȱ",
+          "volume": "{ǲȣ圼$Ĥ1ʋ蠮Ţ閚ġ@汗髤嫱"
+        },
+        "rbd": {
+          "image": "",
+          "keyring": "空i偧ÝgxŦ讯pø1勻叹槹ǲ0qm相",
+          "monitors": null,
+          "pool": "faÐɠ¦皺d'ǒ痦(ÐR袰",
+          "user": "h铗}Ð卅ʝ(C猦)~aÝ"
+        },
+        "scaleIO": {
+          "fsType": "ɽ艥岢wȑ槨]",
+          "gateway": "",
+          "secretRef": null,
+          "storageMode": "ȊŔēBı濄9ɹ儷P詘Ā",
+          "system": ""
+        },
+        "storageClassName": "+n乥",
+        "storageos": {
+          "fsType": "Þʯ飝ȫǧ眢Č4笶¨聐栞簊斉",
+          "readOnly": true,
+          "secretRef": {
+            "apiVersion": "yƹ",
+            "fieldPath": "¼Ôʢ脃",
+            "kind": "憸ɝ' śȑ怍ʉ7饖涇",
+            "name": "4FƏɅƒ^ȫ=%C缞",
+            "namespace": "ɩê傅譸ʐ鸭ȏ~懁ʦo啖ɣū躼",
+            "resourceVersion": "17595604741211237261"
+          },
+          "volumeName": "ɣ绦湇lġZp灎LFȗe|ʝ½6",
+          "volumeNamespace": "@v恨ƖU]"
+        },
+        "volumeMode": "Filesystem",
+        "vsphereVolume": {
+          "fsType": "ž吀藉3四÷ɉ濭8",
+          "storagePolicyID": "0备+莺ƫt釷鰚O伌ņ膅]蹟儈针x}",
+          "storagePolicyName": "0Ìǂ",
+          "volumePath": "\u0026à鸌i®禗ʘĵsƴ癴憁夿"
+        }
+      },
+      "status": {
+        "message": ";ǩɘ`Yò[鍔G8p孾Ǽxä",
+        "phase": "Pending",
+        "reason": "n藧国dǕĻ照"
+      }
+    }
+  ],
+  "kind": "PersistentVolumeList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "apiVersion": "v1",
+  "items": [
+    {
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "spec": {
+        "affinity": {},
+        "containers": [],
+        "dnsPolicy": "Default",
+        "enableServiceLinks": true,
+        "hostname": "¤牍鈹Ɏ釻sm'Eų",
+        "nodeName": "ǎ遲Ŀ奐閘}垥Ûǵ霎",
+        "preemptionPolicy": "魠",
+        "priorityClassName": "H睔ŇAAʑ:鯹",
+        "restartPolicy": "Always",
+        "schedulerName": "ŝ@4~~",
+        "securityContext": {},
+        "serviceAccount": "ʔ厬;JK[n{魶ȅaƘÉ",
+        "serviceAccountName": "ʔ厬;JK[n{魶ȅaƘÉ",
+        "setHostnameAsFQDN": true,
+        "subdomain": "k螵",
+        "terminationGracePeriodSeconds": 30,
+        "topologySpreadConstraints": [
+          {
+            "labelSelector": {
+              "matchExpressions": [
+                {
+                  "key": "8wLx85W...-.EyH4-4.___fR_3c",
+                  "operator": "NotIn",
+                  "values": [
+                    "5L3--Z-..-__1mn_.-2-C-W-.BA___.--bU"
+                  ]
+                }
+              ]
+            },
+            "maxSkew": -1967338284,
+            "minDomains": 733422714,
+            "nodeTaintsPolicy": "ɶ鞾楍M銸+俌ʒĝ藂!O腀`毓2廘Ĭ",
+            "topologyKey": "蘷ř惥Pßʓ碻Ĝ:梯6ǯ",
+            "whenUnsatisfiable": "ʏʤȺ鍎zTĀ復搌嬬K憅"
+          }
+        ]
+      },
+      "status": {
+        "hostIPs": [
+          {}
+        ]
+      }
+    }
+  ],
+  "kind": "PodList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

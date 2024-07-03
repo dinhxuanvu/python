@@ -1,0 +1,377 @@
+{
+  "apiVersion": "extensions/v1beta1",
+  "kind": "ReplicaSet",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "minReadySeconds": 117804151,
+    "replicas": -1682047434,
+    "selector": {
+      "matchExpressions": [
+        {
+          "key": "j__3p",
+          "operator": "Exists"
+        }
+      ]
+    },
+    "template": {
+      "metadata": {
+        "creationTimestamp": "2005-05-03T09:40:04Z",
+        "generateName": "ǂÒÄ丬孖鴾",
+        "generation": -1993192063170195713,
+        "name": "眎ȿ¤牍鈹Ɏ",
+        "namespace": "g^嫄舅a姫¬RQ+§ǫ",
+        "resourceVersion": "7050955501377345702",
+        "selfLink": "ŇAAʑ:鯹#1J奘Ó#",
+        "uid": "Ā復搌嬬K憅"
+      },
+      "spec": {
+        "activeDeadlineSeconds": -5412788830838956316,
+        "affinity": {},
+        "containers": null,
+        "dnsPolicy": "Default",
+        "enableServiceLinks": true,
+        "ephemeralContainers": [
+          {
+            "image": "晹/ɐ集涷~稙ǆ妅挿劇Ŀ",
+            "imagePullPolicy": "Always",
+            "livenessProbe": {
+              "exec": {},
+              "failureThreshold": 1021418228,
+              "grpc": {
+                "port": 0,
+                "service": ""
+              },
+              "httpGet": {
+                "host": "愌4Ǣ踙褈",
+                "path": "/_ŕdl灟%ǕƉK倬\u003c湅kʘ嗹ǣȵÃ",
+                "port": -770335964,
+                "scheme": "xǃ"
+              },
+              "initialDelaySeconds": -1400477380,
+              "periodSeconds": 2095364857,
+              "successThreshold": 1015176587,
+              "tcpSocket": {
+                "host": "縿ōH湙*Ƕ客yŭP\u003c",
+                "port": -1772211888
+              },
+              "timeoutSeconds": -475521531
+            },
+            "name": "暔ʠ+ǊNi",
+            "readinessProbe": {
+              "exec": {},
+              "failureThreshold": 254136682,
+              "grpc": {
+                "port": 0,
+                "service": ""
+              },
+              "httpGet": {
+                "host": "ȼȀDĝ",
+                "httpHeaders": [
+                  {
+                    "name": "鑝[ʢɕ",
+                    "value": "ȟ?cǖě^朥暻ƕ"
+                  }
+                ],
+                "path": "/ÔÉ玭p鮛ɉ檹哮",
+                "port": "Y鍌Ǚ糖",
+                "scheme": "x肽慜黩梮匂1ys鞙0ʤxƦVʭšhɚ\u003c"
+              },
+              "initialDelaySeconds": -1128840752,
+              "periodSeconds": -526568237,
+              "successThreshold": 468494277,
+              "tcpSocket": {
+                "host": "窎Ȳȁǃ(暥鉕鬞鸠ʜD僝椝澔Ȕ",
+                "port": "ʟK"
+              },
+              "terminationGracePeriodSeconds": -6570620073152216977,
+              "timeoutSeconds": -367151666
+            },
+            "resizePolicy": [
+              {
+                "resourceName": "ǕĻ照罆",
+                "restartPolicy": "磐Ȭɛ梩鿍Ŝ"
+              }
+            ],
+            "resources": {
+              "limits": {
+                "cpu": "776",
+                "memory": "775",
+                "storage": "451"
+              },
+              "requests": {
+                "cpu": "776",
+                "memory": "775",
+                "storage": "451"
+              }
+            },
+            "restartPolicy": "÷ħaPO/舏ȱ!u崳炣ʮ蛤.ü",
+            "securityContext": {
+              "allowPrivilegeEscalation": false,
+              "appArmorProfile": {
+                "type": "槧ɠ鷓缴ª"
+              },
+              "capabilities": {},
+              "privileged": true,
+              "procMount": "ɛǕŵ揞厕Ȍ殏崀釥M藤絇懅C",
+              "readOnlyRootFilesystem": false,
+              "runAsGroup": -2589103902906811024
+            },
+            "startupProbe": {
+              "exec": {
+                "command": [
+                  "妁笲/Ħ"
+                ]
+              },
+              "failureThreshold": 1860310555,
+              "grpc": {
+                "port": 0,
+                "service": ""
+              },
+              "httpGet": {
+                "host": "{Ȕ7ɮ祱Ǧ鐄畺",
+                "path": "/t瀸#鎫Ȍ",
+                "port": "GM",
+                "scheme": "xƤ/Śɫ/"
+              },
+              "initialDelaySeconds": 2126193457,
+              "periodSeconds": -2083423726,
+              "successThreshold": 2022738048,
+              "tcpSocket": {
+                "host": "ǯ仧İĆ/Ǎ鈨\u0026 ú犍ɧT猴",
+                "port": 1198066283
+              },
+              "terminationGracePeriodSeconds": -1023951001148270189,
+              "timeoutSeconds": 783603654
+            },
+            "stdinOnce": true,
+            "targetContainerName": "Ĩ榏-1[步ǹ摧ɪƯ",
+            "terminationMessagePath": "/~Ǯ",
+            "terminationMessagePolicy": "File",
+            "tty": true,
+            "workingDir": "鋌ŐȒ钥馔9ɪ暷o*ŧǫU"
+          }
+        ],
+        "hostIPC": true,
+        "hostname": "熓旄混ƿÓȑ",
+        "initContainers": [
+          {
+            "image": "ǒ痦(ÐR袰G益",
+            "imagePullPolicy": "IfNotPresent",
+            "lifecycle": {
+              "postStart": {
+                "httpGet": {
+                  "host": "]蹟儈针x}CR摓聳y篊ȃGœ°½",
+                  "path": "/",
+                  "port": -1223074158,
+                  "scheme": "xDƧg"
+                },
+                "tcpSocket": {
+                  "host": "煕ǋʬ",
+                  "port": "5\u003eO磮侇"
+                }
+              },
+              "preStop": {
+                "exec": {
+                  "command": [
+                    "Bı濄9ɹ儷P詘Ā騤ƖǘIȵ鹪貫觨|"
+                  ]
+                },
+                "httpGet": {
+                  "host": "LFȗe|ʝ½6e珗1剣F鶡pÞʯ",
+                  "path": "/蓸8険nbH汇ɘ'蹩ÓU倚ʫnĝ彔ŋ",
+                  "port": "燣Ŵr穏",
+                  "scheme": "x鿂遟R\u0026缲!)ʥ黝VA*î餚鼮憸ɝ' "
+                },
+                "sleep": {
+                  "seconds": -6557755778484960914
+                }
+              }
+            },
+            "livenessProbe": {
+              "exec": {},
+              "failureThreshold": 353924230,
+              "grpc": {
+                "port": 0,
+                "service": ""
+              },
+              "httpGet": {
+                "host": "Eʯɝȱh輎ʪe漟ɶ鞾",
+                "path": "/芔鵅{ǲȣ圼$Ĥ1ʋ蠮Ţ閚ġ@汗髤嫱",
+                "port": 442059707,
+                "scheme": "x/,Z"
+              },
+              "initialDelaySeconds": -1550909492,
+              "periodSeconds": -1799932257,
+              "successThreshold": 1779434514,
+              "terminationGracePeriodSeconds": -1287574674035847101,
+              "timeoutSeconds": -300357930
+            },
+            "name": "H/ʩ4Ȏ#",
+            "ports": [
+              {
+                "containerPort": 1890336835,
+                "hostIP": "pø1勻叹槹ǲ0qm相娚{",
+                "hostPort": -1864445991,
+                "name": "i偧Ýg",
+                "protocol": "SCTP"
+              }
+            ],
+            "readinessProbe": {
+              "failureThreshold": 994999001,
+              "grpc": {
+                "port": 0,
+                "service": ""
+              },
+              "httpGet": {
+                "host": "涜衩KųĄǘā籀Ŋ=ʂɎȈ篇ɣ訥栍",
+                "path": "/s(èÍ筭0ɽN殩船佌ǈ琇舳s磩韃\"",
+                "port": 1909207941,
+                "scheme": "x*喏蚒Ȣ鯍"
+              },
+              "initialDelaySeconds": -1683972465,
+              "periodSeconds": 499446448,
+              "successThreshold": -1598790113,
+              "timeoutSeconds": 484418301
+            },
+            "resources": {
+              "limits": {
+                "cpu": "42",
+                "memory": "363",
+                "storage": "190"
+              },
+              "requests": {
+                "cpu": "42",
+                "memory": "363",
+                "storage": "190"
+              }
+            },
+            "securityContext": {
+              "appArmorProfile": {
+                "type": "1ĆvɦZ緼敖韻"
+              },
+              "capabilities": {
+                "add": [
+                  "%C缞ƌ_ŖɗǦS镥"
+                ],
+                "drop": [
+                  "Vǻ"
+                ]
+              },
+              "privileged": false,
+              "procMount": "Y",
+              "readOnlyRootFilesystem": false,
+              "seccompProfile": {
+                "localhostProfile": "罐ŠJ_婜76KʒʣǸƏ",
+                "type": "欏Û-Ǌn"
+              },
+              "windowsOptions": {
+                "hostProcess": true
+              }
+            },
+            "startupProbe": {
+              "exec": {},
+              "failureThreshold": -1606886916,
+              "grpc": {
+                "port": 0,
+                "service": ""
+              },
+              "httpGet": {
+                "host": "Ƙ鸍",
+                "path": "/",
+                "port": 108733359,
+                "scheme": "x曯瘛¤0ƊŤH\u0026"
+              },
+              "initialDelaySeconds": 516007661,
+              "periodSeconds": 916290805,
+              "successThreshold": -2120827068,
+              "tcpSocket": {
+                "host": "免Rń©缗炌浫60ÌǂW*仠",
+                "port": "伶,鶪ĵȼ陕)ô縪ǫž"
+              },
+              "timeoutSeconds": -1397802061
+            },
+            "stdin": true,
+            "stdinOnce": true,
+            "terminationMessagePath": "/ʉ7饖涇4ʀĭƹ@ƃ",
+            "terminationMessagePolicy": "File",
+            "tty": true,
+            "workingDir": "Ð卅ʝ(C猦)~aÝ"
+          }
+        ],
+        "nodeName": "Ʊ徢vgŁǆ乲",
+        "preemptionPolicy": "g擦×伇Ŵą诽ʢ涁苌髜Iõ杛\u003c[乬K扔",
+        "priority": 1323763524,
+        "priorityClassName": "ƈ鱌弰ö銇ś´ʍ:兇Ƈ胏tĵ鸾ðd¹猛",
+        "restartPolicy": "OnFailure",
+        "schedulerName": "wPYŪ-溤'瘫筱UYĜ 虧骤",
+        "securityContext": {
+          "fsGroup": -3923452149813405861,
+          "runAsGroup": -1997483747311729867,
+          "runAsUser": -4948560077019037457,
+          "seLinuxOptions": {
+            "level": "=t3}#焿û旬ų偐圸擧严ǆ4贓­灭",
+            "type": "J鍅Ơ虫qɹáŇ綈Sʈ}ȦĿƩ瞽鞜¡",
+            "user": "娊褔7š豍缹ȑ鞙ǾÞ氞Cšëi"
+          },
+          "seccompProfile": {
+            "type": ""
+          },
+          "sysctls": [
+            {
+              "name": "B鍕TȟǕ.Q婜Ț鲑ƭA.吾",
+              "value": "駉辄°39ǻȅ侊遲駔'"
+            }
+          ],
+          "windowsOptions": {
+            "hostProcess": true,
+            "runAsUserName": "钃moZ\\鉰û薆蛾頸Ʉ鿱\u003cĈf8嬃Þ"
+          }
+        },
+        "serviceAccount": "C龉脪yʮĀAĳʙ姃辆",
+        "serviceAccountName": "C龉脪yʮĀAĳʙ姃辆",
+        "subdomain": "{歜霙ƏĲ囻聞",
+        "terminationGracePeriodSeconds": 30,
+        "topologySpreadConstraints": [
+          {
+            "labelSelector": {
+              "matchLabels": {
+                "38.-A.----_-e-4___-_.r-.7.-63i_.f-K": "SMT9_W.4D.q3-0E..Ke"
+              }
+            },
+            "maxSkew": -1900829759,
+            "nodeAffinityPolicy": "Üǎ啀ɂƨk膓:ơȵ伄ƀü搥ȣKB\u003ci",
+            "nodeTaintsPolicy": "A鼠蘢稊s兌P譫\"0õgn",
+            "topologyKey": "焃|",
+            "whenUnsatisfiable": "蝼ʩȝTȼ+X"
+          }
+        ]
+      }
+    }
+  },
+  "status": {
+    "availableReplicas": 884076250,
+    "fullyLabeledReplicas": 1573761097,
+    "observedGeneration": 2770423623828729926,
+    "readyReplicas": 59472803,
+    "replicas": -1118240967
+  }
+}

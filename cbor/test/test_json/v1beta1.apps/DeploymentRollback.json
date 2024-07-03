@@ -1,0 +1,8 @@
+{
+  "apiVersion": "apps/v1beta1",
+  "kind": "DeploymentRollback",
+  "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+  "rollbackTo": {
+    "revision": 4922104514069871585
+  }
+}

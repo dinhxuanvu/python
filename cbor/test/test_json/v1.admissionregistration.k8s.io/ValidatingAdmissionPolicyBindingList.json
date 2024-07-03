@@ -1,0 +1,92 @@
+{
+  "apiVersion": "admissionregistration.k8s.io/v1",
+  "items": [
+    {
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "spec": {
+        "matchResources": {
+          "matchPolicy": "Exact",
+          "namespaceSelector": {
+            "matchExpressions": [
+              {
+                "key": "u__1mn_.-2-C-W-.A",
+                "operator": "In",
+                "values": [
+                  "CuPPN",
+                  "M.--b2_-._-O_0_6C-v_.._.Z.G-..3.8"
+                ]
+              },
+              {
+                "key": "wc-de2i-20a-33-7-la-4a-fa--4-nv-9-fs21-6-z3/O_6",
+                "operator": "Exists"
+              }
+            ]
+          },
+          "objectSelector": {
+            "matchExpressions": [
+              {
+                "key": "2-94p0-6f-99n-fwdxi--i-d9-i4-zr-5gu-y6-yq8---yya-i--4t9/Y..5Di7_-3_-8-_--X-7L.__._1_-..1_y3.K-0_Z..O.p",
+                "operator": "In",
+                "values": [
+                  "N.-i..sH3"
+                ]
+              }
+            ]
+          },
+          "resourceRules": [
+            {
+              "scope": "J"
+            }
+          ]
+        },
+        "paramRef": {
+          "name": "厬",
+          "namespace": "U鈖溡饬",
+          "parameterNotFoundAction": "C猦)~aÝ$夼Ĕ黟",
+          "selector": {
+            "matchExpressions": [
+              {
+                "key": "2.n-.7O_.F-0..-pQ",
+                "operator": "NotIn",
+                "values": [
+                  "3-_FC---O.6M_4--Zc.3N._1x-gC5u"
+                ]
+              },
+              {
+                "key": "E.HI.._.L",
+                "operator": "Exists"
+              }
+            ]
+          }
+        },
+        "policyName": "慯ĦĂÔi+巨",
+        "validationActions": [
+          "Deny"
+        ]
+      }
+    }
+  ],
+  "kind": "ValidatingAdmissionPolicyBindingList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

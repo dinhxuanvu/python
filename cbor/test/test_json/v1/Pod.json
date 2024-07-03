@@ -1,0 +1,129 @@
+{
+  "apiVersion": "v1",
+  "kind": "Pod",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "affinity": {
+      "podAffinity": {
+        "preferredDuringSchedulingIgnoredDuringExecution": [
+          {
+            "podAffinityTerm": {
+              "labelSelector": {
+                "matchExpressions": [
+                  {
+                    "key": "cya51u-3q-iv8q---i4-5ch---71km55-p-2nx-5m8eds8e--4dgj1me111/3G-..3.-8bA_f-.5-b7._-C4.__--._-_6_W7.__-L-20XMC.-4wcFe",
+                    "operator": "DoesNotExist"
+                  },
+                  {
+                    "key": "p5-i7-j3-z8f-jy-m7-0--6-1-y171-y36-x0--51-69.2--94p0-6f-99n-fwdxi--i-d90/A.-F.W-_q-.-___.E5",
+                    "operator": "NotIn",
+                    "values": [
+                      "8-_v..--c.-..0_-8---._.M_id-d_-pwu.c-.-a_X_.___D._-G-q8-1-90.1"
+                    ]
+                  }
+                ]
+              },
+              "matchLabelKeys": [
+                "ǃʅ堖2ȂN悷P牑ǡ怱¹爔ȝ犛_L課"
+              ],
+              "namespaceSelector": {
+                "matchExpressions": [
+                  {
+                    "key": "054-1-16r499324-9i-7446x-1/s-e-4L_.-.-LgIE.Q-11.-Z_-Zw",
+                    "operator": "In",
+                    "values": [
+                      "p.-7._7g_E.9-4_8.Q.._jvj__c__T0___.3_F-5.h_j",
+                      "w.h7-1_6Dqf.-.qM.Z._._._2_uU3-T-_2__6L"
+                    ]
+                  },
+                  {
+                    "key": "i5q---x6-s96y--en-7-0618-k76qx-v--o--h2k3oa6d2--7-q/R_.--ZA7t-.7-.W..._s8s6n.-CpDs22_5.-_CaK-_9I-D.0-Cp",
+                    "operator": "In",
+                    "values": [
+                      "8_-9-XV",
+                      "Z6y.-.v-.k.y547-j-12cb7VD-I--LKc--P"
+                    ]
+                  }
+                ]
+              },
+              "topologyKey": "ƟqTɅ暔ʠ+ǊNi"
+            },
+            "weight": -961077752
+          }
+        ]
+      }
+    },
+    "automountServiceAccountToken": true,
+    "containers": [],
+    "dnsPolicy": "ClusterFirst",
+    "enableServiceLinks": true,
+    "hostIPC": true,
+    "hostNetwork": true,
+    "hostPID": true,
+    "hostUsers": false,
+    "hostname": "/浏7ȩë馹Ď",
+    "nodeName": "骢3ŖĐ垓ŀ_",
+    "nodeSelector": {
+      "閘}垥Ûǵ霎×V$寥\u003eȰǂÒÄ": "EųȻg^嫄舅a姫¬RQ+§ǫ暫雰"
+    },
+    "os": {
+      "name": "{歜霙ƏĲ囻聞"
+    },
+    "overhead": {
+      "冐:¤b劍;.čȭ熓旄混ƿ": "496"
+    },
+    "priorityClassName": "Z",
+    "restartPolicy": "Always",
+    "schedulerName": "Cm匽Wbɥ倮q\\9|飈ǹ",
+    "securityContext": {
+      "appArmorProfile": {
+        "type": "¹猛gZ"
+      },
+      "fsGroupChangePolicy": "ʍ:兇Ƈ胏tĵ鸾",
+      "runAsGroup": 284738507609269043,
+      "runAsNonRoot": false,
+      "supplementalGroups": [
+        6543284935307686898
+      ],
+      "supplementalGroupsPolicy": "K\u0026盫1ȒA\u00264ʪʥUw"
+    },
+    "serviceAccount": "Aʑ:鯹#1J奘Ó#·z",
+    "serviceAccountName": "Aʑ:鯹#1J奘Ó#·z",
+    "setHostnameAsFQDN": false,
+    "subdomain": "棱ĤG3籥C渵8ÿs蔒喌D澜瀊tɍĢN",
+    "terminationGracePeriodSeconds": 173008855,
+    "volumes": [
+      {
+        "name": "uɾ轊2Rƨ®鮃c狃鎥",
+        "secret": {
+          "defaultMode": 49,
+          "secretName": "s;Ŕ烵wEĝ垵ʔ厬;JK[n{"
+        }
+      }
+    ]
+  },
+  "status": {
+    "hostIPs": [
+      {}
+    ]
+  }
+}

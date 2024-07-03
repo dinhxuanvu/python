@@ -1,0 +1,65 @@
+{
+  "apiVersion": "events.k8s.io/v1",
+  "items": [
+    {
+      "action": "­ɈA{MfaÐɠ",
+      "deprecatedCount": 1018034276,
+      "deprecatedFirstTimestamp": "2064-09-15T22:50:43Z",
+      "deprecatedLastTimestamp": "2280-09-29T07:52:16Z",
+      "deprecatedSource": {
+        "component": "AAʑ:鯹#1J奘Ó#·",
+        "host": "v覼骢3ŖĐ垓"
+      },
+      "eventTime": "1970-01-01T00:00:01.000001Z",
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "note": "嫄舅a姫¬RQ+§ǫ暫",
+      "reason": "k螵",
+      "regarding": {
+        "apiVersion": "慯ĦĂÔi+巨",
+        "fieldPath": "鈹Ɏ釻sm'Eų",
+        "kind": "厬",
+        "name": "{魶ȅaƘÉȠǎ遲Ŀ奐閘}垥Ûǵ霎×V",
+        "namespace": "U鈖溡饬",
+        "resourceVersion": "3582018914006547045"
+      },
+      "related": {
+        "apiVersion": "4Ȏ#ɵM笶t隿誦\u003ch铗}",
+        "fieldPath": "Ĥ1ʋ蠮Ţ閚ġ@汗髤嫱嗘爀E",
+        "kind": "v宁ƧôSʖɻ杻3",
+        "name": "qm相娚{ǀŲ灾囋Ĩ棱ĤG3籥C渵8",
+        "namespace": "$夼Ĕ黟jɊ.+乤澰齂Ý僛皫2绯",
+        "resourceVersion": "3010919844870521034"
+      },
+      "reportingController": "L稃Ç揱łʯĥ秵Ǯǅ/,",
+      "reportingInstance": "+俌ʒĝ藂!O腀",
+      "series": {
+        "count": 1283309078,
+        "lastObservedTime": "1970-01-01T00:00:03.000003Z"
+      },
+      "type": ":梯6ǯ珔嘲 ɅAò"
+    }
+  ],
+  "kind": "EventList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "apiVersion": "v1",
+  "kind": "PodTemplate",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "template": {
+    "metadata": {
+      "creationTimestamp": "2037-01-26T21:49:44Z",
+      "finalizers": [
+        ""
+      ],
+      "generateName": "排",
+      "generation": 3582018914006547045,
+      "managedFields": [
+        {
+          "apiVersion": "Pßʓ碻Ĝ:梯6ǯ珔嘲 ",
+          "fieldsType": "鍎zTĀ復搌嬬K憅蝯弚Ƌ幠H/ʩ",
+          "manager": "丬孖鴾k螵Śþŝ@4~~;|H睔ŇAA",
+          "operation": "(Ȭ蚊鬳魠ƶȒʎ垎bv覼骢3",
+          "subresource": "Ȏ#ɵM笶t隿誦\u003ch铗}Ð卅"
+        }
+      ],
+      "name": "驵uɾ",
+      "namespace": "Rƨ®鮃c狃鎥wS9慯",
+      "resourceVersion": "11211098049529308748",
+      "selfLink": "烵wEĝ垵ʔ厬;JK[n{魶ȅa",
+      "uid": "ôS"
+    },
+    "spec": {
+      "affinity": {},
+      "automountServiceAccountToken": true,
+      "containers": [],
+      "dnsConfig": {},
+      "dnsPolicy": "ClusterFirst",
+      "enableServiceLinks": true,
+      "hostAliases": [
+        {
+          "ip": "ɉ濭8鹉ɕʨY0备+莺ƫt釷鰚O伌"
+        }
+      ],
+      "hostNetwork": true,
+      "hostPID": true,
+      "hostUsers": false,
+      "hostname": "琇舳s",
+      "nodeName": "ǲ0qm相娚{ǀŲ灾囋Ĩ",
+      "preemptionPolicy": "詊梐V©¸Ž\u0026ǘǎ]",
+      "priority": 353957254,
+      "priorityClassName": "膅]蹟",
+      "restartPolicy": "Always",
+      "schedulerName": "default-scheduler",
+      "securityContext": {
+        "appArmorProfile": {
+          "type": "絑葽9ɀƺ`YÞ欏Û-Ǌn;罐Š"
+        },
+        "runAsNonRoot": true,
+        "seLinuxOptions": {
+          "level": "o啖ɣū躼MȸƮ煬øN暪ʬĒF形們豿¼",
+          "role": "œŔşɩê傅譸ʐ鸭ȏ~",
+          "type": "燉",
+          "user": "鼮憸ɝ' śȑ怍ʉ"
+        },
+        "supplementalGroups": [
+          1252353728806228799
+        ],
+        "windowsOptions": {}
+      },
+      "serviceAccount": "jɊ.+乤澰齂Ý僛",
+      "serviceAccountName": "jɊ.+乤澰齂Ý僛",
+      "setHostnameAsFQDN": true,
+      "shareProcessNamespace": true,
+      "subdomain": "kǣǱ,@戽Ǝ澬y*亪譛ĥƌ5偷Ʈ芃?",
+      "terminationGracePeriodSeconds": 1862431309,
+      "tolerations": [
+        {
+          "effect": ")ô縪ǫž吀藉",
+          "key": "馽",
+          "operator": "蚒Ȣ鯍ɱ\"H鹽矼夶8ǒ8",
+          "tolerationSeconds": -2919220696375048588,
+          "value": "$a赽曯瘛¤0ƊŤH\u0026à鸌i®禗ʘĵs"
+        }
+      ],
+      "topologySpreadConstraints": [
+        {
+          "labelSelector": {
+            "matchExpressions": [
+              {
+                "key": "7-3-5yv/D1_1",
+                "operator": "DoesNotExist"
+              }
+            ]
+          },
+          "matchLabelKeys": [
+            "缲!)"
+          ],
+          "maxSkew": -2006487831,
+          "topologyKey": "",
+          "whenUnsatisfiable": "ǹ撖r黚锞荮G煕ǋʬȊŔēBı濄9ɹ"
+        }
+      ]
+    }
+  }
+}

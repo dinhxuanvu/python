@@ -1,0 +1,95 @@
+{
+  "apiVersion": "v1",
+  "items": [
+    {
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "template": {
+        "metadata": {
+          "annotations": {
+            "鬳魠ƶȒʎ垎bv覼骢3ŖĐ垓ŀ_": ":梯6ǯ珔嘲 ɅAò"
+          },
+          "creationTimestamp": "2017-05-29T15:06:13Z",
+          "generateName": "厬",
+          "generation": 9204309253000629430,
+          "labels": {
+            "^嫄舅": "@4~~;|H睔ŇAAʑ:"
+          },
+          "name": "慯ĦĂÔi+巨",
+          "namespace": "U鈖溡饬",
+          "resourceVersion": "12455913760576382404",
+          "selfLink": "{魶ȅaƘÉȠǎ遲Ŀ奐閘}垥Ûǵ霎×V",
+          "uid": "­ɈA{MfaÐɠ"
+        },
+        "spec": {
+          "activeDeadlineSeconds": -5419653346569053746,
+          "affinity": {},
+          "containers": [],
+          "dnsConfig": {},
+          "dnsPolicy": "Default",
+          "enableServiceLinks": true,
+          "hostname": "黟jɊ.+乤澰齂Ý僛皫2",
+          "nodeName": "3鈵空",
+          "overhead": {
+            "沏g": "746"
+          },
+          "preemptionPolicy": "ǣǱ,@戽Ǝ澬y*亪譛ĥƌ5偷",
+          "priorityClassName": "Í筭0ɽN殩船佌ǈ琇舳s",
+          "readinessGates": [
+            {
+              "conditionType": "訥栍镝馽\u0026ŻeĆ鮔RŘ"
+            }
+          ],
+          "resourceClaims": [
+            {
+              "name": "®禗ʘĵsƴ癴憁夿Ɯ~免Rń©"
+            }
+          ],
+          "restartPolicy": "Always",
+          "schedulerName": "Ĥ1ʋ蠮Ţ閚ġ@汗髤嫱嗘爀E",
+          "schedulingGates": [
+            {
+              "name": "鸍ȏƐTĮ鐫1fÐ焹n"
+            }
+          ],
+          "securityContext": {},
+          "serviceAccount": "袰G益东孽v宁ƧôSʖɻ",
+          "serviceAccountName": "袰G益东孽v宁ƧôSʖɻ",
+          "subdomain": "0qm相娚{ǀŲ灾囋Ĩ棱ĤG3籥C渵8",
+          "terminationGracePeriodSeconds": 2062576912,
+          "tolerations": [
+            {
+              "effect": "毓",
+              "key": "稃Ç",
+              "operator": "輎ʪe漟ɶ鞾楍M銸+俌ʒĝ藂!O",
+              "tolerationSeconds": -7011827660341289723,
+              "value": "R"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "kind": "PodTemplateList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

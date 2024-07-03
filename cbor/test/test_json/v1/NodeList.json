@@ -1,0 +1,71 @@
+{
+  "apiVersion": "v1",
+  "items": [
+    {
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "spec": {
+        "configSource": {
+          "configMap": {
+            "kubeletConfigKey": "鍎zTĀ復搌嬬K憅蝯弚Ƌ幠H/ʩ",
+            "name": "4~~;|H睔ŇAA",
+            "namespace": "ƌ眎ȿ¤牍鈹Ɏ釻sm'EųȻg^嫄舅a",
+            "resourceVersion": "Pßʓ碻Ĝ:梯6ǯ珔嘲 ",
+            "uid": "(Ȭ蚊鬳魠ƶȒʎ垎bv覼骢3"
+          }
+        },
+        "externalID": "皺d'ǒ痦(",
+        "providerID": "Ŕ烵wEĝ垵ʔ厬;JK[n{魶ȅ",
+        "taints": [
+          {
+            "effect": "奐閘}垥",
+            "key": "ÉȠ",
+            "value": "wÜ"
+          }
+        ]
+      },
+      "status": {
+        "daemonEndpoints": {
+          "kubeletEndpoint": {
+            "Port": 226584812
+          }
+        },
+        "nodeInfo": {
+          "architecture": "Ąǘā籀Ŋ=ʂɎȈ篇ɣ訥栍镝馽\u0026",
+          "bootID": "$Ĥ",
+          "containerRuntimeVersion": "łʯĥ秵Ǯ",
+          "kernelVersion": "",
+          "kubeProxyVersion": "èÍ",
+          "kubeletVersion": "楍M銸+俌ʒĝ藂!O腀`毓2",
+          "machineID": "$夼Ĕ黟jɊ.+乤澰齂Ý僛皫2绯",
+          "operatingSystem": "g(aŘ}ŗ褞藺óʦtkǣǱ,@戽Ǝ澬",
+          "osImage": "ʋ蠮Ţ閚ġ@汗髤嫱嗘爀Eʯɝȱh",
+          "systemUUID": "qm相娚{ǀŲ灾囋Ĩ棱ĤG3籥C渵8"
+        },
+        "phase": "袰G益东孽v宁ƧôSʖɻ"
+      }
+    }
+  ],
+  "kind": "NodeList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

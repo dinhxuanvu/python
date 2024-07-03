@@ -1,0 +1,52 @@
+{
+  "apiVersion": "flowcontrol.apiserver.k8s.io/v1",
+  "items": [
+    {
+      "metadata": {
+        "creationTimestamp": "2032-11-29T08:27:12Z",
+        "generateName": "å.ő腉ȓ@跰Ȗo旽誾絩`厁熯ŏX",
+        "generation": -5939877047823943322,
+        "managedFields": [
+          {
+            "apiVersion": "嘁g哇;蟂Ǆz耇",
+            "fieldsType": "Ēɵ;湢GƂ莸ƪɣ7¸姅",
+            "manager": "ȂʒȺ鑬\\GįǳǪǛ闸Ëŕ",
+            "operation": "捣É蘹旚窸'",
+            "subresource": "驵uɾ"
+          }
+        ],
+        "name": "pɺ¡ȃE泂潴a",
+        "namespace": "ȏ飄c躷s饶Ɵ",
+        "resourceVersion": "4365372127704980307",
+        "selfLink": "DȗŐ",
+        "uid": "{\\¦çû犼曓ɩ"
+      },
+      "spec": {
+        "exempt": {
+          "lendablePercent": -1888635840,
+          "nominalConcurrencyShares": 38725501
+        },
+        "limited": {
+          "borrowingLimitPercent": -608191927,
+          "lendablePercent": -2113150415,
+          "limitResponse": {
+            "queuing": {
+              "handSize": 1131492790,
+              "queueLengthLimit": 1657009958,
+              "queues": -1699637793
+            },
+            "type": ";JK["
+          },
+          "nominalConcurrencyShares": -811528949
+        },
+        "type": "慯ĦĂÔi+巨"
+      },
+      "status": {}
+    }
+  ],
+  "kind": "PriorityLevelConfigurationList",
+  "metadata": {
+    "resourceVersion": "7825005719432896330",
+    "selfLink": "=賽Ŭ麚iƆ"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "apiVersion": "imagepolicy.k8s.io/v1alpha1",
+  "kind": "ImageReview",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "containers": [
+      {
+        "image": "uɾ轊2Rƨ®鮃c狃鎥"
+      }
+    ],
+    "namespace": "S9慯ĦĂÔi+巨6ȎU鈖溡"
+  },
+  "status": {
+    "allowed": false,
+    "auditAnnotations": {
+      "ȅaƘÉȠǎ遲Ŀ奐閘}垥Ûǵ霎×V": "牍鈹Ɏ釻"
+    },
+    "reason": "蝽"
+  }
+}

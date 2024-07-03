@@ -1,0 +1,47 @@
+{
+  "apiVersion": "authorization.k8s.io/v1beta1",
+  "kind": "SubjectAccessReview",
+  "metadata": {
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "nonResourceAttributes": {
+      "path": "蘷ř惥Pßʓ碻Ĝ:梯6ǯ",
+      "verb": "ʏʤȺ鍎zTĀ復搌嬬K憅"
+    },
+    "resourceAttributes": {
+      "group": "Ŕ烵wEĝ垵ʔ厬;JK[n{魶ȅ",
+      "name": "Aʑ:鯹#1J奘Ó#·z",
+      "namespace": "b7巕排{\\¦çû犼曓",
+      "resource": "$寥\u003eȰǂÒÄ",
+      "subresource": "EųȻg^嫄舅a姫¬RQ+§ǫ暫雰",
+      "verb": "wS9",
+      "version": "默bȘYwÜ%爞Ɗ3詢Ɠƌ眎ȿ"
+    },
+    "uid": "痦(ÐR",
+    "user": "{MfaÐɠ¦皺d"
+  },
+  "status": {
+    "allowed": true,
+    "denied": true,
+    "evaluationError": "空i偧ÝgxŦ讯pø1勻叹槹ǲ0qm相",
+    "reason": "h铗}Ð卅ʝ(C猦)~aÝ"
+  }
+}

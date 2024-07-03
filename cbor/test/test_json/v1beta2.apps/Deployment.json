@@ -1,0 +1,126 @@
+{
+  "apiVersion": "apps/v1beta2",
+  "kind": "Deployment",
+  "metadata": {
+    "annotations": {
+      "deprecated.deployment.rollback.to": "-7801538564212367251"
+    },
+    "creationTimestamp": "2048-06-12T07:01:11Z",
+    "finalizers": [
+      "ǇƂ"
+    ],
+    "generateName": "韰盟镊Rk¿ſ",
+    "generation": 6044571037788791011,
+    "managedFields": [
+      {
+        "fieldsType": "ĐD捣É蘹旚窸'湫達\\嘐燑",
+        "manager": "VÂȜ\u003c朾",
+        "operation": "嗐lŕ沯ɻŧ@鎪L瑖彏ɔ",
+        "subresource": "uo窢Ēɵ;湢GƂ莸ƪɣ"
+      }
+    ],
+    "name": "ȶ=賽Ŭ麚iƆ-秐 显poʁƻIXå.",
+    "namespace": "誾絩`厁熯ŏX濚慡",
+    "resourceVersion": "1442559887461764803",
+    "selfLink": "c"
+  },
+  "spec": {
+    "minReadySeconds": -596993254,
+    "progressDeadlineSeconds": 1152218697,
+    "replicas": -1682047434,
+    "revisionHistoryLimit": 119200805,
+    "selector": {
+      "matchExpressions": [
+        {
+          "key": "Q_3NppI-99B.---k__E0_c-p....27._d..-._8..Kx8-.J_p_8hxB-6_.-O5",
+          "operator": "Exists"
+        }
+      ]
+    },
+    "strategy": {
+      "type": "Recreate"
+    },
+    "template": {
+      "metadata": {
+        "creationTimestamp": "2040-02-25T19:19:38Z",
+        "generateName": "ɈA{M",
+        "generation": -6407847378511018111,
+        "name": "zTĀ復搌嬬",
+        "resourceVersion": "15682594328065003481",
+        "selfLink": "aÐɠ¦皺",
+        "uid": "+乤澰齂Ý僛皫2绯Ʋ¥"
+      },
+      "spec": {
+        "affinity": {
+          "nodeAffinity": {
+            "preferredDuringSchedulingIgnoredDuringExecution": [
+              {
+                "preference": {},
+                "weight": 1545439497
+              }
+            ]
+          }
+        },
+        "containers": null,
+        "dnsPolicy": "ClusterFirst",
+        "enableServiceLinks": false,
+        "hostAliases": [
+          {
+            "ip": "\"ȓƘ涜"
+          }
+        ],
+        "hostname": "漟ɶ鞾楍M銸+俌ʒĝ藂!O腀`毓2",
+        "nodeName": "澜瀊tɍĢN苍ʂZ韏臟L稃Ç揱ł",
+        "os": {
+          "name": "ı濄9ɹ儷P詘Ā騤ƖǘIȵ鹪貫觨|炲哜"
+        },
+        "overhead": {
+          "Ř爞瞔沏g藶7$a赽曯瘛": "82"
+        },
+        "priorityClassName": "澬y*亪譛ĥƌ5偷Ʈ芃?眕馔@*喏蚒",
+        "restartPolicy": "Never",
+        "schedulerName": "ǈ琇舳s",
+        "securityContext": {},
+        "serviceAccount": "ĤG3籥C渵8ÿs蔒喌",
+        "serviceAccountName": "ĤG3籥C渵8ÿs蔒喌",
+        "subdomain": "èÍ",
+        "terminationGracePeriodSeconds": 96890559,
+        "topologySpreadConstraints": [
+          {
+            "labelSelector": {
+              "matchLabels": {
+                "C_4--j1--1.-6": "11K"
+              }
+            },
+            "matchLabelKeys": [
+              "G煕ǋʬȊŔē"
+            ],
+            "maxSkew": 48146727,
+            "minDomains": -204190278,
+            "topologyKey": "H\u0026à鸌i®禗ʘĵsƴ癴憁夿",
+            "whenUnsatisfiable": "ž吀藉3四÷ɉ濭8"
+          }
+        ]
+      }
+    }
+  },
+  "status": {
+    "availableReplicas": 1423209304,
+    "collisionCount": 483938001,
+    "conditions": [
+      {
+        "lastTransitionTime": "2375-03-08T21:20:09Z",
+        "lastUpdateTime": "2460-07-01T20:18:19Z",
+        "message": "ū躼MȸƮ煬øN暪ʬĒF形們豿¼",
+        "reason": "怍ʉ7饖涇4ʀĭƹ@ƃƶ嚪嗌燉ĤǋZ",
+        "status": "聐栞簊斉Gyƹa韩]ɳ伶",
+        "type": "缲!)"
+      }
+    ],
+    "observedGeneration": 6367371451179456596,
+    "readyReplicas": -1612854785,
+    "replicas": 1275623876,
+    "unavailableReplicas": 1331455806,
+    "updatedReplicas": -8791408
+  }
+}
